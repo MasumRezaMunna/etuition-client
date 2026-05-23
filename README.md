@@ -3,7 +3,7 @@
 A full-featured **Tuition Management System** built with React, Tailwind CSS, DaisyUI, and Firebase Authentication.
 
 ## 🌐 Live URL
-[https://etuitionbd.web.app](https://etuitionbd.web.app)
+[https://etuitionbd.web.app]([https://etuitionbd.web.app](https://inquisitive-pika-e48834.netlify.app/))
 
 ## 🎯 Purpose
 eTuitionBd connects students seeking tutors with qualified educators across Bangladesh. Students post tuition requirements, tutors apply, admins moderate, and payments are processed securely via Stripe.
